@@ -1,1 +1,1 @@
-# vanilla-Pagination
+# vanilla Javascript Pagination
